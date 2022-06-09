@@ -1,0 +1,284 @@
+{
+  "status": 200,
+  "msg": "Success",
+  "data": [
+    {
+      "id": 1,
+      "title": "Bronze User",
+      "flag": "bronze",
+      "experience": 0,
+      "icon": "https://uat-api.apa2bisa.xyz/public/medal/bronze.png",
+      "MedalBenefits": [
+        {
+          "title": "Tambah +100 Poin",
+          "sub_title": "Tambahan Poin",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/point.png",
+          "description": "Dapatkan bonus 100 poin dan lanjutkan misi harianmu",
+          "is_consumable": 1,
+          "point": 100,
+          "flag": "POINT_BENEFIT",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        }
+      ],
+      "UserMedalBenefits": [],
+      "MedalConditions": [
+        {
+          "title": "Sign Up",
+          "description": "Sign up dengan LinkAja",
+          "flag": "SIGN_UP",
+          "is_complete": false
+        },
+        {
+          "title": "Lengkapi Profil",
+          "description": "Lengkapi profil kamu di Apa2bisa",
+          "flag": "PROFILE",
+          "is_complete": false
+        },
+        {
+          "title": "Transaksi Sekarang",
+          "description": "Transaksi menggunakan LinkAja minimal 100.000",
+          "flag": "TRANSAKSI",
+          "is_complete": false
+        }
+      ],
+      "UserMedals": [
+        {
+          "user_id": 31,
+          "medal_id": 1
+        }
+      ],
+      "UserMedalConditions": [],
+      "is_complete": true
+    },
+    {
+      "id": 2,
+      "title": "Silver User",
+      "flag": "silver",
+      "experience": 95000,
+      "icon": "https://uat-api.apa2bisa.xyz/public/medal/silver.png",
+      "MedalBenefits": [
+        {
+          "title": "Tambah +200 Poin",
+          "sub_title": "Tambahan Poin",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/point.png",
+          "description": "Dapatkan bonus 200 poin dan lanjutkan misi harianmu",
+          "is_consumable": 1,
+          "point": 200,
+          "flag": "POINT_BENEFIT",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        }
+      ],
+      "UserMedalBenefits": [],
+      "MedalConditions": [
+        {
+          "title": "Kumpulkan XP",
+          "description": "Selesaikan misi harian hingga mendapatkan 95.000 XP",
+          "flag": "XP",
+          "is_complete": false
+        },
+        {
+          "title": "Transaksi Minimal 250.000",
+          "description": "Transaksi menggunakan LinkAja minimal 250.000",
+          "flag": "TRANSAKSI",
+          "is_complete": false
+        }
+      ],
+      "UserMedals": [],
+      "UserMedalConditions": [],
+      "is_complete": false
+    },
+    {
+      "id": 3,
+      "title": "Gold User",
+      "flag": "gold",
+      "experience": 150000,
+      "icon": "https://uat-api.apa2bisa.xyz/public/medal/gold.png",
+      "MedalBenefits": [
+        {
+          "title": "Tambah +200 Poin",
+          "sub_title": "Tambahan Poin",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/point.png",
+          "description": "Gunakan bonus 200 poin dan lanjutkan misi harianmu",
+          "is_consumable": 1,
+          "point": 200,
+          "flag": "POINT_BENEFIT",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        },
+        {
+          "title": "Komentar Unggahan",
+          "sub_title": "Komentari Unggahan",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/comment.png",
+          "description": "Anda bisa memberikan komentar di setiap unggahan Forum & Group",
+          "is_consumable": 0,
+          "point": 0,
+          "flag": "FORUM",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        }
+      ],
+      "UserMedalBenefits": [],
+      "MedalConditions": [
+        {
+          "title": "Kumpulkan XP",
+          "description": "Selesaikan misi harian hingga mendapatkan 150.000 XP",
+          "flag": "XP",
+          "is_complete": false
+        },
+        {
+          "title": "Transaksi Minimal 500.000",
+          "description": "Transaksi menggunakan LinkAja minimal 500.000",
+          "flag": "TRANSAKSI",
+          "is_complete": false
+        }
+      ],
+      "UserMedals": [],
+      "UserMedalConditions": [],
+      "is_complete": false
+    },
+    {
+      "id": 4,
+      "title": "Platinum User",
+      "flag": "platinum",
+      "experience": 300000,
+      "icon": "https://uat-api.apa2bisa.xyz/public/medal/platinum.png",
+      "MedalBenefits": [
+        {
+          "title": "Tambah +500 Poin",
+          "sub_title": "Tambahan Poin",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/point.png",
+          "description": "Gunakan bonus 500 poin dan lanjutkan misi harianmu",
+          "is_consumable": 1,
+          "point": 0,
+          "flag": "POINT_BENEFIT",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        },
+        {
+          "title": "Komentar Unggahan",
+          "sub_title": "Komentari Unggahan",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/comment.png",
+          "description": "Anda bisa memberikan komentar di setiap unggahan Forum & Group",
+          "is_consumable": 0,
+          "point": null,
+          "flag": "FORUM",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        },
+        {
+          "title": "Virtual City Kupon",
+          "sub_title": "Klaim Kupon Diskon 20%",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/kupon.png",
+          "description": "Kupon ini dapat dipergunakan untuk event virtual city (Desember)",
+          "is_consumable": 1,
+          "point": 20,
+          "flag": "KUPON",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        }
+      ],
+      "UserMedalBenefits": [],
+      "MedalConditions": [
+        {
+          "title": "Kumpulkan XP",
+          "description": "Selesaikan misi harian hingga mendapatkan 300.000 XP",
+          "flag": "XP",
+          "is_complete": false
+        },
+        {
+          "title": "Transaksi Minimal 1.000.000",
+          "description": "Transaksi menggunakan LinkAja minimal 1.000.000",
+          "flag": "TRANSAKSI",
+          "is_complete": false
+        }
+      ],
+      "UserMedals": [],
+      "UserMedalConditions": [],
+      "is_complete": false
+    },
+    {
+      "id": 5,
+      "title": "Priority User",
+      "flag": "priority",
+      "experience": 400000,
+      "icon": "https://uat-api.apa2bisa.xyz/public/medal/priority.png",
+      "MedalBenefits": [
+        {
+          "title": "Tambah +1000 Poin",
+          "sub_title": "Tambahan Poin",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/point.png",
+          "description": "Gunakan bonus 1000 poin dan lanjutkan misi harianmu",
+          "is_consumable": 1,
+          "point": 1000,
+          "flag": "POINT_BENEFIT",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        },
+        {
+          "title": "Komentar Unggahan",
+          "sub_title": "Komentari Unggahan",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/comment.png",
+          "description": "Anda bisa memberikan komentar di setiap unggahan Forum & Group",
+          "is_consumable": 0,
+          "point": 0,
+          "flag": "FORUM",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        },
+        {
+          "title": "Virtual City Kupon",
+          "sub_title": "Klaim Kupon Diskon 20%",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/kupon.png",
+          "description": "Kupon ini dapat dipergunakan untuk event virtual city (Desember)",
+          "is_consumable": 1,
+          "point": 20,
+          "flag": "KUPON",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        },
+        {
+          "title": "Virtual City Kupon",
+          "sub_title": "Klaim Kupon Diskon 30%",
+          "picture": "https://uat-api.apa2bisa.xyz/public/benefits/kupon.png",
+          "description": "Kupon ini dapat dipergunakan untuk event virtual city (Desember)",
+          "is_consumable": 1,
+          "point": 30,
+          "flag": "KUPON",
+          "updated_at": "2021-09-27T16:27:25.000Z",
+          "updatedAt": "2021-09-27T16:27:25.000Z",
+          "is_used": false
+        }
+      ],
+      "UserMedalBenefits": [],
+      "MedalConditions": [
+        {
+          "title": "Kumpulkan XP",
+          "description": "Selesaikan misi harian hingga mendapatkan 400.000 XP",
+          "flag": "XP",
+          "is_complete": false
+        },
+        {
+          "title": "Transaksi Minimal 2.500.000",
+          "description": "Transaksi menggunakan LinkAja minimal 2.500.000",
+          "flag": "TRANSAKSI",
+          "is_complete": false
+        }
+      ],
+      "UserMedals": [],
+      "UserMedalConditions": [],
+      "is_complete": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+$borderColor: #e7e8f3;
+
+.ant-input {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+	width: 100%;
+	background-color: #f8f8fc;
+	border-radius: 6px;
+	border-color: $borderColor;
+}
+
+.ant-input-group-addon {
+	background-color: $borderColor !important;
+	border-radius: 6px 0 0 6px;
+	border-color: $borderColor;
+}
+
+.ant-select {
+	padding: 0;
+	display: block;
+	width: 100%;
+	.ant-select-selector {
+		border-radius: 6px !important;
+		border: 1px solid $borderColor !important;
+		background-color: #f8f8fc;
+		border-radius: 6px;
+		background-color: #f8f8fc !important;
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+		height: auto !important;
+		border-color: $borderColor;
+	}
+	.ant-select-selection-search-input {
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+		height: 100% !important;
+	}
+}
+
+.ant-upload-picture-card-wrapper {
+	display: inline-block !important;
+	width: auto !important;
+}
+.ant-upload.ant-upload-select-picture-card {
+	margin: 0 !important;
+}
+
+.ant-modal-content {
+	overflow: auto !important;
+	border-radius: 24px !important;
+	.ant-modal-close {
+		display: none !important;
+	}
+	.ant-modal-body {
+		padding: 2px !important;
+	}
+}
+
+.ant-card {
+	&.body-compact {
+		.ant-card-body {
+			padding: 0 !important;
+		}
+	}
+}
